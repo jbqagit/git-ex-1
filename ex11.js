@@ -1,1 +1,2 @@
 PaymentRequestUpdateEvent
+Uint8ClampedArray
